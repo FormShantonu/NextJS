@@ -41,3 +41,14 @@ There are two type of app router - page router and app router
     - Performance optimized by default
     - Production ready out of box
 
+### Type of Routes
+    
+    1. static routes
+    2. Dynamic Routes
+    3. Catch all routes
+    4. Route groups
+    5. Parallel routes
+    6. Interceptiong routes
+
+### Nested and Dynamic Routing
+
